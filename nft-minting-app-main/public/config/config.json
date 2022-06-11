@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x88762a134ccc0CD9689e8aFA53251b89C0E1A91f",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x88762a134ccc0cd9689e8afa53251b89c0e1a91f",
+  "NETWORK": {
+    "NAME": "rinkeby",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "AneroNFT",
+  "SYMBOL": "ANERO",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/anero-v4",
+  "SHOW_BACKGROUND": true
+}
